@@ -2,13 +2,10 @@
 
 Raphael Wudy
 
-*Fakultät für Informatik*
-
-*Technische Hochschule Rosenheim*
-
-*Rosenheim, Deutschland*
-
-*raphael.wudy@stud.th-rosenheim.de*
+*Fakultät für Informatik*<br/>
+*Technische Hochschule Rosenheim*<br/>
+*Rosenheim, Deutschland*<br/>
+*raphael.wudy@stud.th-rosenheim.de*<br/>
 
 **Zusammenfassung—In der Software-Wartung und -Pflege ist
 Debuggen eine wiederkehrende Aufgabe, die sehr viel Zeit in
