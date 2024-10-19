@@ -1,9 +1,13 @@
 # Bug Detection in der Software-Wartung und -Pflege mit Large Language Models
 
 Raphael Wudy
+
 *Fakultät für Informatik*
+
 *Technische Hochschule Rosenheim*
+
 *Rosenheim, Deutschland*
+
 *raphael.wudy@stud.th-rosenheim.de*
 
 **Zusammenfassung—In der Software-Wartung und -Pflege ist
